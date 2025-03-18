@@ -11,3 +11,5 @@ def factorial(n):
 if __name__ == "__main__":
     n = int(input("Enter the number: "))
     print(f"Factorial of {n} is {factorial(n)}")
+
+input("\n\n\nPress Enter to exit...")
