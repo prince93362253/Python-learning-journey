@@ -6,3 +6,17 @@
 006_check_positive_negative_zero
 007_sum_of_natural_numbers
 008_factorial_number
+009_reverse_a_number
+010_reverse_number_string
+011_palindrome_checker
+012_check_number
+013_largest_among_three
+014_leap_year_checker
+015_check_divisibility
+016_check_vowel_or_consonant
+017_check_valid_triangle
+018_check_voting_eligibility
+019_grade_calculator
+020_character_type_checker
+021_print_numbers_loop
+022_even_numbers_printer
