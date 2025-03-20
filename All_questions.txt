@@ -20,3 +20,6 @@
 020_character_type_checker
 021_print_numbers_loop
 022_even_numbers_printer
+023_odd_numbers_printer
+024_number_classification_loop
+025_sum_even_odd
